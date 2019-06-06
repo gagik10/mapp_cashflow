@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fdb3d8d6-0918-4379-b9f6-97f43815b2b0">
+  <producedTypes>
+    <managerType typeId="21e8c56e-b238-4a42-b30b-5075568f1709" valueTypeId="abc2ec68-94bc-4bc9-8fc8-0646fe1d032c"/>
+    <valueManagerType typeId="188fb611-01a6-4009-831c-55118814f855" valueTypeId="8efe37b6-0f52-4166-bfba-c5c667744ea5"/>
+  </producedTypes>
+  <name>ПользовательЦентральнойБазы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пользователь центральной базы</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>User Database</value>
+  </synonym>
+  <comment></comment>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>50</length>
+    </stringQualifiers>
+  </type>
+  <mask></mask>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

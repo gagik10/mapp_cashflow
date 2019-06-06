@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="996579a6-a007-47de-bd4c-009fed8f9e12">
+  <producedTypes>
+    <managerType typeId="6a668451-0e0b-4850-bfca-99089d0120dd" valueTypeId="66424cc1-354a-4549-88f7-5a6c64dd1f1f"/>
+    <valueManagerType typeId="cfcf2c5d-d622-44fb-8e38-eaa36f5830f3" valueTypeId="e6c9d84f-c137-4507-b300-a24351a871ff"/>
+  </producedTypes>
+  <name>ВариантРазделителяCSV</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вариант разделителя CSV</value>
+  </synonym>
+  <comment></comment>
+  <type>
+    <types>EnumRef.ВариантыРазделителейCSV</types>
+  </type>
+  <mask></mask>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bc611e0f-c62c-456a-a08c-d292dca2a4bf">
+  <producedTypes>
+    <refType typeId="31772f07-7f70-4240-a479-d380d839522c" valueTypeId="324b9dd9-6e67-4524-ac43-7f83423ba09e"/>
+    <listType typeId="04131c64-1846-45c3-ab51-7e846f923832" valueTypeId="aac20bad-68b7-4f3d-a1c5-492934f36800"/>
+    <managerType typeId="e0460812-3ee4-423a-9a80-a196c97c8df3" valueTypeId="2b15556d-2d56-49d3-800e-314a48a16726"/>
+  </producedTypes>
+  <name>РазделУчета</name>
+  <synonym>
+    <key>ru</key>
+    <value>Раздел учета</value>
+  </synonym>
+  <comment></comment>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="18e6c19f-7254-450b-bf14-35e354fa383d">
+    <name>РасчетыСКонтрагентами</name>
+    <synonym>
+      <key>ru</key>
+      <value>Расчеты с контрагентами</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="6c6c292f-9a87-404b-94c0-352778709fc9">
+    <name>РасчетыСПерсоналом</name>
+    <synonym>
+      <key>ru</key>
+      <value>Расчеты с персоналом</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="52ada779-e489-43db-b1b3-353d78f1713e">
+    <name>РасчетыСПодотчетнымиЛицами</name>
+    <synonym>
+      <key>ru</key>
+      <value>Расчеты с подотчетными лицами</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="cb9e859c-1f55-49d1-bf24-600e20c4aeb6">
+    <name>БюджетныеПлатежи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Бюджетные платежи</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="763e4a02-fec6-4406-aa18-0b18f43a29a7">
+    <name>ПермещениеСредств</name>
+    <synonym>
+      <key>ru</key>
+      <value>Пермещение средств</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+</mdclass:Enum>

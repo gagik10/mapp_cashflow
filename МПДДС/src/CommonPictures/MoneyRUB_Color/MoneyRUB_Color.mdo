@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="82f33e8b-1a00-4ba6-9a67-4d72f472f78e">
+  <name>MoneyRUB_Color</name>
+  <synonym>
+    <key>ru</key>
+    <value>Money RUB color</value>
+  </synonym>
+  <comment></comment>
+</mdclass:CommonPicture>

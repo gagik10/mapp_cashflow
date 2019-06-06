@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c2289844-9556-40f6-b1fa-83fabfc6435e">
+  <name>ДвиженияДенежныхСредств</name>
+  <synonym>
+    <key>ru</key>
+    <value>Движения денежных средств</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Cash flow statement</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="decae9cb-7e3d-4983-9cf2-5d3031e33662"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="519d1247-32b0-4080-8028-706553236d13"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d1be34eb-3430-446e-b1f9-67a49f5469d1"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="d63f573b-f03a-4daa-bd59-76bd1d4bbee7"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="04f8d619-3951-4298-8f37-3806cbf5b14d"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="3c7b902c-5119-4377-b38c-711df915658f"/>
+  <namePrefix></namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>MobileDevice</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.ОсновнаяРоль</defaultRoles>
+  <vendor>FirstBit</vendor>
+  <version>1.0.0</version>
+  <updateCatalogAddress></updateCatalogAddress>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <interfaceCompatibilityMode>Version8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.12</compatibilityMode>
+  <languages uuid="1ad33aa9-a9e6-4956-86db-b8e071c402e4">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>ru</languageCode>
+  </languages>
+  <languages uuid="5a837527-985d-4534-94ab-6bf37fc773aa">
+    <name>English</name>
+    <synonym>
+      <key>ru</key>
+      <value>Английский</value>
+    </synonym>
+    <synonym>
+      <key>en</key>
+      <value>English</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>en</languageCode>
+  </languages>
+  <commonPictures>CommonPicture.Account</commonPictures>
+  <commonPictures>CommonPicture.Done</commonPictures>
+  <commonPictures>CommonPicture.Error</commonPictures>
+  <commonPictures>CommonPicture.Lock</commonPictures>
+  <commonPictures>CommonPicture.MoneyCHF</commonPictures>
+  <commonPictures>CommonPicture.MoneyCHF_Color</commonPictures>
+  <commonPictures>CommonPicture.MoneyEUR</commonPictures>
+  <commonPictures>CommonPicture.MoneyEUR_Color</commonPictures>
+  <commonPictures>CommonPicture.MoneyGBP</commonPictures>
+  <commonPictures>CommonPicture.MoneyGBP_Color</commonPictures>
+  <commonPictures>CommonPicture.MoneyHKD</commonPictures>
+  <commonPictures>CommonPicture.MoneyHKD_Color</commonPictures>
+  <commonPictures>CommonPicture.MoneyRUB</commonPictures>
+  <commonPictures>CommonPicture.MoneyRUB_Color</commonPictures>
+  <commonPictures>CommonPicture.MoneyUSD</commonPictures>
+  <commonPictures>CommonPicture.MoneyUSD_Color</commonPictures>
+  <commonPictures>CommonPicture.Settings</commonPictures>
+  <commonPictures>CommonPicture.Sync</commonPictures>
+  <commonPictures>CommonPicture.Web</commonPictures>
+  <commonPictures>CommonPicture.БанковскийСчет</commonPictures>
+  <commonPictures>CommonPicture.Глаз</commonPictures>
+  <commonPictures>CommonPicture.Квитанция</commonPictures>
+  <commonPictures>CommonPicture.Квитанция_Color</commonPictures>
+  <commonPictures>CommonPicture.Поделиться</commonPictures>
+  <commonPictures>CommonPicture.СинхронизацияВыполняется</commonPictures>
+  <sessionParameters>SessionParameter.ВерсияОС</sessionParameters>
+  <roles>Role.ОсновнаяРоль</roles>
+  <commonModules>CommonModule.ОбменМобильноеПриложениеВызовСервера</commonModules>
+  <commonModules>CommonModule.ОбменМобильноеПриложениеКлиент</commonModules>
+  <commonModules>CommonModule.ОбменМобильноеПриложениеПравилаОбмена</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.ОбменМобильноеПриложениеСервер</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияВызовСервера</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияКлиент</commonModules>
+  <commonModules>CommonModule.СтроковыеФункцииКлиентСервер</commonModules>
+  <exchangePlans>ExchangePlan.бит_мп_МобильноеПриложениеДДС</exchangePlans>
+  <commandGroups>CommandGroup.Сервис</commandGroups>
+  <constants>Constant.АдресЦентральнойБазы</constants>
+  <constants>Constant.ВариантРазделителяCSV</constants>
+  <constants>Constant.ИмяМобильногоУстройства</constants>
+  <constants>Constant.КодДоступаВПриложение</constants>
+  <constants>Constant.ПарольПользователяЦентральнойБазы</constants>
+  <constants>Constant.ПользовательЦентральнойБазы</constants>
+  <constants>Constant.СоединениеСЦБУстановлено</constants>
+  <commonForms>CommonForm.ВводКодаДоступаВПриложение</commonForms>
+  <commonForms>CommonForm.НастройкиПриложения</commonForms>
+  <commonForms>CommonForm.НастройкиСинхронизации</commonForms>
+  <commonForms>CommonForm.Синхронизация</commonForms>
+  <commonForms>CommonForm.УстановкаКодаДоступаВПриложение</commonForms>
+  <catalogs>Catalog.БанковскиеСчета</catalogs>
+  <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <enums>Enum.ВариантыРазделителейCSV</enums>
+  <enums>Enum.РазделУчета</enums>
+  <dataProcessors>DataProcessor.РабочийСтол</dataProcessors>
+</mdclass:Configuration>

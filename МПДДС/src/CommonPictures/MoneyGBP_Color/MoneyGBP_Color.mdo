@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8d2ab9c1-eaf2-46cc-8ae2-dc058e3f86fb">
+  <name>MoneyGBP_Color</name>
+  <synonym>
+    <key>ru</key>
+    <value>Money GBP color</value>
+  </synonym>
+  <comment></comment>
+</mdclass:CommonPicture>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bee46420-14b1-4412-b8f6-533e465a9dff">
+  <name>ОбменМобильноеПриложениеВызовСервера</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обмен данными мобильного приложения</value>
+  </synonym>
+  <comment></comment>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

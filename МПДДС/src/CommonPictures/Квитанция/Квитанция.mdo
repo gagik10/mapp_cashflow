@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ae16baa7-0016-4b93-9b4c-780e825bd616">
+  <name>Квитанция</name>
+  <synonym>
+    <key>ru</key>
+    <value>Квитанция</value>
+  </synonym>
+  <comment></comment>
+</mdclass:CommonPicture>

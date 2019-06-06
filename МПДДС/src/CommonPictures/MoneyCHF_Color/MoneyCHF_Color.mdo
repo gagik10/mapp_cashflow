@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ca65bd5a-7417-4c9f-97bd-1c71f6e1c01a">
+  <name>MoneyCHF_Color</name>
+  <synonym>
+    <key>ru</key>
+    <value>Money CHF color</value>
+  </synonym>
+  <comment></comment>
+</mdclass:CommonPicture>

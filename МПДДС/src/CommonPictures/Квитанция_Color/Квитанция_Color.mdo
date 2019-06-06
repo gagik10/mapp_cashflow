@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="11666336-ca42-4a1d-85f6-bd49fb11b402">
+  <name>Квитанция_Color</name>
+  <synonym>
+    <key>ru</key>
+    <value>Квитанция color</value>
+  </synonym>
+  <comment></comment>
+</mdclass:CommonPicture>
